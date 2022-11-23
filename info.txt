@@ -1,0 +1,18 @@
+ Java
+Complie
+javac filename.java
+To run
+java filename
+ C++
+Complie
+g++ - o filename filename.cpp
+Output
+. /filename
+ C language 
+Complie
+gcc - o filename filename.c
+Output
+. /filename
+ To install java
+Sudo apt-get update
+Sudo apt-get install openjdk-8-jdk
